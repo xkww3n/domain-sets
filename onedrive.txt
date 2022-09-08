@@ -1,0 +1,5 @@
+.1drv.com
+.onedrive.com
+.storage.live.com
+1drv.ms
+oneclient.sfx.ms
