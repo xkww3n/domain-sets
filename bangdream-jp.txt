@@ -1,2 +1,2 @@
-.cloudfront.net
 api.star.craftegg.jp
+d2ktlshvcuasnf.cloudfront.net
