@@ -1,5 +1,6 @@
 .fast.com
 .ooklaserver.net
+.speedtest.net
 .speed.cloudflare.com
 01.ookla-speedtest.aseinet.com
 01.speedtest.dinfotec.es
