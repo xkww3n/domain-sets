@@ -1,7 +1,8 @@
 .fast.com
+.host.speedtest.net
 .ooklaserver.net
-.speedtest.net
 .speed.cloudflare.com
+.speedtest.net
 01.ookla-speedtest.aseinet.com
 01.speedtest.dinfotec.es
 01.speedtest.on2pro.com
@@ -107,7 +108,6 @@ ammon-st.sumofiber.com
 ams.atunify.net
 ams.speedtest.dfox.fr
 ams.speedtest.interoute.net
-ams2.speedtest.net
 ana.speedtest-dvf.megafon.ru
 ank1speedtest.avea.com.tr
 annabaspeed.djaweb.dz
@@ -128,7 +128,6 @@ arquivos.softdados.net
 arrobanetbandalarga.net.br
 artn01.hizinitestet.com
 as1.asernet.com.br
-ash.host.speedtest.net
 ashburn.va.speedtest.frontier.com
 ashburn02.speedtest.windstream.net
 asstelecom.com.br
@@ -140,7 +139,6 @@ ataspeedtest1.grupotelnet.com.br
 atl.ookla.gfsvc.com
 atl.speedtest.pavlovmedia.net
 atl.speedtest.sbcglobal.net
-atl2.speedtest.net
 atlanta.ga.speedtest.frontier.com
 atlanta.massivenetworks.com
 atlanta02.speedtest.windstream.net
@@ -301,14 +299,12 @@ charlottesville2.speedtest.centurylink.net
 chb-speedtest-srv02.ti.ru
 chch1.linetest.nz
 chd.softechinfosol.com
-che.speedtest.net
 chelyabinsk.speedtest-uf.megafon.ru
 chelyabinsk.speedtest.rt.ru
 chennaispeedtest.spectranet.in
 cheyenne.speedtest.centurylink.net
 chi.speedtest.sbcglobal.net
 chi1sp1.qtsdatacenters.com
-chi2.speedtest.net
 chicago.il.speedtest.frontier.com
 chicago.speedtest.centurylink.net
 chicago02.speedtest.windstream.net
@@ -428,7 +424,6 @@ dev01.kbl.systems
 dewi.ost.myvzw.com
 dfw.speedtest.sbcglobal.net
 dfw1sp1.qtsdatacenters.com
-dfw2.speedtest.net
 dhubri.neconnect.in
 dibrugarh.neconnect.in
 diefsspeed001.fsit.com
@@ -869,7 +864,6 @@ kota.orionoptibeam.com
 kp-speed.kbro.com.tw
 kp.speedtest.lanet.ua
 kpst.zapbytes.in
-kr12.speedtest.net
 kra-o1.speedtest.orange.pl
 krasnoyarsk1.speedtest.corbina.net
 krg-st1.2day.kz
@@ -910,7 +904,6 @@ lax.speedtest.interoute.net
 lax.speedtest.sbcglobal.net
 lax1a-speedtest.gorillaservers.com
 lax1a-speedtest.webnx.com
-lax2.speedtest.net
 lbg-speed.tvcabo.ao
 lccmtn-ooklahost.lonestarcell.com
 ld1.vayutel.net
@@ -975,7 +968,6 @@ lodz1.forweb.pl
 logicanet.ddns.net
 login.gnatelecom.com.br
 logspt.conectinfo.net.br
-lon.host.speedtest.net
 lon.speedtest.interoute.net
 londonspeedtest.congotelecom.support
 losangeles-speedtest.atlanticmetro.net
@@ -1102,7 +1094,6 @@ mgd.speedtest-dvf.megafon.ru
 mgla01.hizinitestet.com
 mi-speedtest.optimaitalia.com
 mi.speedtest.warian.net
-mia.speedtest.net
 mia.speedtest.sbcglobal.net
 miami.fl.speedtest.frontier.com
 miami.speedtest.sr
@@ -1383,7 +1374,6 @@ nwt.net.br
 ny.speedtest.t-mobile.com
 nyc.speedtest.interoute.net
 nyc.speedtest.sbcglobal.net
-nyc2.speedtest.net
 nycny-speedtest-02-a.nyc.rr.com
 nyes.OST.myvzw.com
 nyfm.ost.myvzw.com
@@ -1726,7 +1716,6 @@ osk-st-01.kcell.kz
 osk-st1.2day.kz
 osl-speedtest.dataoppdrag.no
 osl-ulv-speedtest1.altibox.net
-osl.host.speedtest.net
 osl.speedtest.as2116.net
 osp1.tvalphaville.com.br
 ospeed1.cruzio.com
@@ -1791,7 +1780,6 @@ phoenix.speedtest.centurylink.net
 phx.hostingsupport.io
 phx.speedtest.pavlovmedia.net
 phx1sp1.qtsdatacenters.com
-phx2.speedtest.net
 ping.x-stream.biz
 pjmtelecom.net.br
 pl.eu.speedtest.i3d.net
@@ -1951,7 +1939,6 @@ samara.speedtest-pf.megafon.ru
 san.speedtest.sbcglobal.net
 sanantonio.speedtest.vivintwireless.net
 sanur.a.speedtest.gerbangakses.net.id
-sao.speedtest.net
 saomigueldoscampos1.speedtest.jgnet.net.br
 sat.speedtest.sbcglobal.net
 satellite.itrixti.com.br
@@ -1969,9 +1956,7 @@ sd.speedtest.lanet.ua
 sdqst1.orange.com.do
 sdr.testepower.com.br
 se.altushost.com
-sea.host.speedtest.net
 sea.speedtest.sbcglobal.net
-sea2.speedtest.net
 seattle.speedtest.bluespanwireless.com
 seattle.speedtest.centurylink.net
 seattle.wa.speedtest.frontier.com
@@ -2064,7 +2049,6 @@ sipcom.net.ua
 sirn02.hizinitestet.com
 sisprov.conexaoba.com.br
 sivs01.hizinitestet.com
-sjc.speedtest.net
 sjrspeedtest.cityonlines.com
 ska1.speedtest.trueinternet.co.th
 sky-fi.co.za
@@ -10330,7 +10314,6 @@ tolspeedtest.axtel.mx
 tomsk.speedtest.truenetwork.ru
 tools.kmv.ru
 topwebtelecom.net.br
-tor.speedtest.net
 tor11speedtest01.srvr.bell.ca
 tor21spd01.srvr.bell.ca
 tor47spd01.srvr.bell.ca
@@ -10377,8 +10360,6 @@ txho.ost.myvzw.com
 txsh.ost.myvzw.com
 ty-speedtest-1.twmbroadband.net
 ty1.chtm.hinet.net
-tyo.host.speedtest.net
-tyo2.host.speedtest.net
 tyspt1.kgex.com.tw
 tyspt2.friday.tw
 tytus.hypernet.biz.pl
@@ -10431,7 +10412,6 @@ v2net.com.br
 va.na.speedtest.i3d.net
 vach.ost.myvzw.com
 valinhos.speedtest.acessoturbo.net.br
-van.host.speedtest.net
 van01.hizinitestet.com
 van1speedtest.turktelekom.com.tr
 vancnspd01.srvr.bell.ca
@@ -10659,8 +10639,6 @@ was.speedtest.sbcglobal.net
 waw1.t-mobile.pl
 waw2.t-mobile.pl
 way.speedtest.t-mobile.com
-wdc.speedtest.net
-wdc2.speedtest.net
 wdstelecom.com.br
 web.amtcloud.it
 web.datanet.kz
@@ -10754,3 +10732,4 @@ zion.m3x.org
 zonnetprovedor.ddns.ms
 zoom1.netone.net.in
 zrh.speedtest.interoute.net
+
