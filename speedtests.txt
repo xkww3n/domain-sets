@@ -10,3 +10,4 @@
 .speedtest.net
 .speedtestcustom.com
 .webtest.net
+speed.cloudflare.com
