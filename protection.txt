@@ -4,7 +4,6 @@
 .1002.men
 .10clicks.com
 .1100ad.com
-.1571627030.rsc.cdn77.org
 .1800cnt.com
 .1990tu.com
 .1app.blob.core.windows.net
@@ -755,6 +754,7 @@
 .black6adv.com
 .black77854.com
 .bleua.ecefibwja.xyz
+.blfoddifghcmeyc.com
 .blog.livelog.biz
 .blogads.com
 .blogparts.dgpot.com
@@ -1036,6 +1036,7 @@
 .cutopporting.com
 .cuttuberaxis.com
 .cwchmb.com
+.cwejnszakvvvu.com
 .cwmlm.com
 .cxdcn9c.fjshxjs.cn
 .d.6xw.com
@@ -1350,10 +1351,12 @@
 .googleadservices.com
 .googleapi.club
 .googles.video
+.goomaphy.com
 .gop1.co
 .goshare-fleet-ads.s3.ap-southeast-1.amazonaws.com
 .gotchosen.com
 .goyetteconnelly.bid
+.gposrzz.cn
 .greetham.net
 .greystripe.com
 .grootcho.com
@@ -1618,8 +1621,10 @@
 .kts.visitstats.com
 .ku2d3a7pa8mdi.com
 .kvbgoc.com
+.kveff.com
 .kvhmm.com
 .kvhnn.com
+.kvmaa.com
 .kvtfff.top
 .kvtggg.top
 .kvtnnn.top
@@ -1635,6 +1640,7 @@
 .launcher.us.yeshen.com
 .lb.usemaxserver.de
 .lcmqyl.cn
+.ld.myrciawaapa.com
 .lduhtrp.net
 .leadboltads.net
 .leaderhistliness.info
@@ -1910,6 +1916,7 @@
 .nearbyad.com
 .nearestaxe.com
 .neekstore.com
+.neeladou.net
 .nend.net
 .nend.net
 .neofield.click
@@ -2295,6 +2302,7 @@
 .rtb.kds.media
 .rtb.nexage.com
 .rtb.platform.glispa.com
+.rtbldisubeignb.com
 .rtbpop.com
 .rtbpopd.com
 .rtpdn12.com
@@ -2326,6 +2334,7 @@
 .saumeechoa.com
 .sauwoaptain.com
 .saymedia.com
+.sbajozhyozjky.com
 .sbbanner.com
 .sc.smardroid.com
 .scadnet.com
@@ -2557,6 +2566,7 @@
 .targetspot.com
 .tartwo.com
 .tauvoojo.net
+.tauwoumo.net
 .tccbanner.com
 .tcs-asp.net
 .tczzzlwpss.com
@@ -2580,10 +2590,12 @@
 .thecred.info
 .thefastpush.com
 .theirsvendor.com
+.theloveapproach.com
 .themoneytizer.net
 .thench.net
 .theship.club
 .thetrafficstat.net
+.theupgradedata.com
 .thevtk.com
 .thichawheja.pro
 .thind-gke-euw.prd.data.corp.unity3d.com
@@ -2777,6 +2789,7 @@
 .vloxaloyfmdqxti.ru
 .vm5apis.com
 .vmap.v.ad-generation.jp
+.vmzqwmbrip.com
 .vo2.qrlsx.com
 .vogo-vogo.ru
 .voluumtlkrnarketing.com
@@ -2828,6 +2841,7 @@
 .whehilru.com
 .whereres.com
 .whitehalfabrr.club
+.whoumtip.xyz
 .whourgie.com
 .whugesto.net
 .widespace.com
@@ -2841,7 +2855,9 @@
 .wildwist.com
 .willalland.info
 .winnerprizezona.info
+.wisehowronspar.com
 .wmhlch.com
+.wmzrmmlgqe.com
 .wokm8isd4zit.com
 .wolaufie.com
 .wolverdonfilmes.ml
@@ -2861,6 +2877,7 @@
 .wugabts.com
 .www.adbert.com.tw
 .www.auditude.com
+.wxejroeeteesr.com
 .wxhiojortldjyegtkx.bid
 .x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 .x-value.net
@@ -2912,6 +2929,7 @@
 .yesadvertising.com
 .yessearches.com
 .yfetyg.com
+.yfupfhqxmwvu.com
 .yhdichan.com
 .yicha.jp
 .yieldkit.com

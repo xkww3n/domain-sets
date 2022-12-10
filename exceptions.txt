@@ -21,6 +21,7 @@ beta.affiliates.adsterra.com
 beta.partners.adsterra.com
 beta.publishers.adsterra.com
 blog.logrocket.com
+c.office.com
 cdn.rozetka.com.ua
 cdnbc-wup.hsbc.com.hk
 cindyholbrook.lpages.co
@@ -99,6 +100,7 @@ stash.roistat.com
 str.hit.gemius.pl
 support-beacon.nakanohito.jp
 support-widget.nakanohito.jp
+surveymyopinion.researchnow.com
 tags.crwdcntrl.net
 thumbnail.thench.net
 tlaol.com
